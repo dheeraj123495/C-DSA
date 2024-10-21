@@ -1,0 +1,14 @@
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Dheeraj\Desktop\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
