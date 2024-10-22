@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dheeraj\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Dheeraj\\Desktop\\CDSA\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dheeraj\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Dheeraj\\Desktop\\CDSA\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dheeraj\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Dheeraj\\Desktop\\CDSA\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Dheeraj\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Dheeraj\\Desktop\\CDSA\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Dheeraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dheeraj\\Desktop\\C#\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Dheeraj\\Desktop\\CDSA\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dheeraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
