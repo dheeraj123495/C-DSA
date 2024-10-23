@@ -90,4 +90,63 @@ class SingleLinkedList<T>
             curNode = curNode.next;
         }
     }
+
+    public void InsertAtPosition(int pos,T val){
+        Node<T> newNode = new Node<T>(val);
+        if(head == null){
+            head = newNode;
+            Console.WriteLine("List was empty, element added at 1st position");
+            return;
+        }
+        if(pos == 1){
+            newNode.next = head;
+            head = newNode;
+            Console.WriteLine("Element added at pos: + " + pos);
+            return;
+        }
+        Node<T> curNode = head;
+        Node<T> prevNode = null;
+        int count = 1;
+        while(count < pos && curNode != null){
+            prevNode = curNode;
+            curNode.next = prevNode;
+            count++;
+        }
+        if(curNode == null){
+            Console.WriteLine("Out of bond position");
+            return;
+        }
+        prevNode.next = newNode;
+        newNode.next = curNode;
+        Console.WriteLine("Element added at pos : " + pos);
+    }
+
+    public void DeleteAtPosition(int pos){
+        if(head == null){
+            Console.WriteLine("List is empty");
+            return;
+        }
+        if(head.next == null){
+            head = null;
+            Console.WriteLine("Last element remaining is deleted");
+            return;
+        }
+        if(pos == 1){
+            head = head.next;
+            Console.WriteLine("Element deleted at position " + pos);
+            return;
+        }
+        Node<T> curNode = head;
+        int count = 1;
+        while(count < pos - 1 && curNode.next != null){
+            curNode = curNode.next;
+            count++;
+        }
+        if(curNode.next == null){
+            Console.WriteLine("Out of bound error");
+            return;
+        }
+        curNode.next = curNode.next.next;
+        Console.WriteLine("Element deleted at postion : " + pos);
+    }
 }
