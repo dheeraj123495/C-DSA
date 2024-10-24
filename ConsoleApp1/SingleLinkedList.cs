@@ -1,7 +1,8 @@
 
+
 class Node<T>{
     public T data;
-    public Node<T>? next;
+    public Node<T> next;
     public Node(T data){
         this.data = data;
         this.next = null;
@@ -9,7 +10,7 @@ class Node<T>{
 }
 class SingleLinkedList<T>
 {
-    public Node<T>? head;
+    public Node<T>? head = null;
 
     public void AddEnd(T val){
         Node<T> newNode = new Node<T>(val);
