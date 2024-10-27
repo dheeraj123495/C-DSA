@@ -1,11 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Security.Cryptography;
 
-int age = 32;
-
-Console.WriteLine("Your age " + age);
-
-
 // StackCollectionImp stackDS = new StackCollectionImp();
 // stackDS.Push(5);
 // stackDS.Push(2);
@@ -38,11 +33,24 @@ Console.WriteLine("Your age " + age);
 // queueDS.Display();
 
 
-SingleLinkedList<int> singleLinkedList = new SingleLinkedList<int>();
-singleLinkedList.Display();
-singleLinkedList.AddEnd(1);
-singleLinkedList.AddEnd(2);
-singleLinkedList.AddEnd(3);
-singleLinkedList.AddEnd(4);
-singleLinkedList.AddStart(5);
-singleLinkedList.Display();
+// SingleLinkedList<int> singleLinkedList = new SingleLinkedList<int>();
+// singleLinkedList.Display();
+// singleLinkedList.AddEnd(1);
+// singleLinkedList.AddEnd(2);
+// singleLinkedList.AddEnd(3);
+// singleLinkedList.AddEnd(4);
+// singleLinkedList.AddStart(5);
+// singleLinkedList.Display();
+
+
+// DictionaryImp<int, string> dictionaryImp = new DictionaryImp<int, string>();
+// dictionaryImp.Add(1, "Dheeraj");
+// dictionaryImp.Add(2, "Amit");
+// dictionaryImp.Add(3, "Jaya");
+// dictionaryImp.Add(4, "Amar");
+// dictionaryImp.Display();
+// dictionaryImp.Accessing(2);
+// dictionaryImp.Update(2, "Basu");
+// dictionaryImp.Display();
+// dictionaryImp.Clear();
+// dictionaryImp.Display();
